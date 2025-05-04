@@ -1,0 +1,8 @@
+{
+  "/api/challenge/route": "app/api/challenge/route.js",
+  "/page": "app/page.js",
+  "/rooms/[room]/page": "app/rooms/[room]/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/find-a-peer/page": "app/find-a-peer/page.js",
+  "/find-a-peer/detail/page": "app/find-a-peer/detail/page.js"
+}
